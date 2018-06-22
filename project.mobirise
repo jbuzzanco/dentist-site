@@ -6,10 +6,10 @@
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#073b4c",
+        "primaryColor": "#55b4d4",
         "secondaryColor": "#fdc904",
         "successColor": "#F7ED4A",
-        "infoColor": "#073b4c",
+        "infoColor": "#f5f5f5",
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
@@ -23,7 +23,7 @@
         "display7Size": 1,
         "display4Font": "Rubik",
         "display4Size": 1,
-        "isRoundedButtons": true,
+        "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
@@ -47,8 +47,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Home - Dr. Schmitt Family Dental Center",
+        "meta_descr": "Welcome to Dr. James R Schmitt Family Dental Center's site. We are located in Edinboro PA. Browse for our history and overview of our services.  Tel: (814) 734-3184",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
